@@ -20,6 +20,7 @@ Phosphoric-acid-loaded SNW-1 COF can improve Nafion membrane proton conductivity
 
 - Matrix: Nafion.
 - COF/additive: H3PO4@SNW-1.
+- SNW-1 chemistry: melamine and terephthalaldehyde Schiff-base network.
 - Filler loading: 15 wt%.
 - Conductivity: 0.0604 S/cm at 51% RH and 80 C.
 - Fuel-cell maximum power density: 60.3% higher than recast Nafion.

@@ -6,7 +6,7 @@ Improved proton conduction of sulfonated poly(ether ether ketone) membrane by in
 
 Source: https://doi.org/10.1016/j.ijhydene.2021.05.119
 
-Evidence status: Verified-primary for publisher abstract/highlight values; full extraction still needed for RH, swelling value, membrane thickness, and MEA conditions.
+Evidence status: Verified-primary + Verified-index for publisher/index abstract values; full extraction still needed for RH, exact swelling value, membrane thickness, and MEA conditions.
 
 ## Why This Matters
 
@@ -21,6 +21,7 @@ Sulfonated COF nanosheets increase proton-site density and form continuous proto
 - COF: TpPa-SO3H nanosheets.
 - Matrix: SPEEK.
 - IEC: up to 2.34 mmol/g.
+- Swelling: 2-fold reduced swelling ratio reported in abstract; exact value still needs full text.
 - SPEEK/TpPa-SO3H-5 conductivity: 0.346 S/cm at 80 C.
 - Tensile strength: 74.5 MPa.
 - H2/O2 fuel-cell OCV: 1.01 V.
@@ -30,7 +31,7 @@ Sulfonated COF nanosheets increase proton-site density and form continuous proto
 
 - RH for conductivity.
 - Membrane thickness.
-- Exact swelling ratio.
+- Exact swelling ratio and reference sample.
 - MEA gas humidity, temperature, catalyst loading, and membrane area.
 
 ## Use In Our Project

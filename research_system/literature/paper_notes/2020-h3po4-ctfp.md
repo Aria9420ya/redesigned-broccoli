@@ -23,6 +23,7 @@ Phosphoric acid loaded into a covalent triazine framework can form a framework n
 - Conductivity: 0.313 S/cm at 100% RH and 80 C.
 - Low-RH behavior: alleviated conductivity decay at 20% RH.
 - High phosphoric-acid loading and low acid leakage rate reported.
+- Cell performance: described as excellent in public abstract/highlights, but no public numeric value verified.
 
 ## What Remains Unknown
 
@@ -33,4 +34,4 @@ Phosphoric acid loaded into a covalent triazine framework can form a framework n
 
 ## Use In Our Project
 
-Use only as a comparison for acid-loaded porous frameworks. Do not cite it as COF-specific evidence.
+Use only as a comparison for acid-loaded porous frameworks. Do not cite it as COF-specific evidence, and keep it outside the A-core route unless full text proves direct relevance.

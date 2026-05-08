@@ -21,4 +21,5 @@ Use a note when asking:
 - `2021-speek-tppa-so3h-nanosheets.md`: hydrocarbon PEM benchmark using sulfonated COF nanosheets.
 - `2021-olefin-linked-nkcof10.md`: robust acid-loaded olefin-linked COF solid-electrolyte reference.
 - `2016-nafion-h3po4-snw1.md`: early Nafion/phosphoric-acid-loaded COF route.
+- `2019-nafion-scons.md`: sulfonated covalent organic nanosheets/Nafion DMFC selectivity reference.
 - `2020-h3po4-ctfp.md`: adjacent CTF acid-loading reference, not a classic COF core paper.
