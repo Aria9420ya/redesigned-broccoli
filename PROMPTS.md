@@ -74,6 +74,34 @@ DOI:
 
 输出为综述可用的表格。
 
+## Screen EndNote Export
+
+用 COF PEM research skill，读取这个 EndNote 导出文件并筛选文献：
+
+文件路径：
+
+要求：
+
+- 按 A-core、B-support、C-background、Exclude 分类。
+- A-core 必须与 COF/PEM/PEMFC/质子传导/静电纺丝/低湿高温膜直接相关。
+- 每篇输出题名、年份、期刊、DOI、关键词、为什么进/不进综述。
+- 对 A-core 文献更新 `literature_matrix.md`。
+- 对未核实 DOI 或缺失摘要的条目标 `Need verification`。
+- 生成 `endnote_triage.md` 或更新已有文件。
+
+## Evaluate Papers For My Review
+
+用 COF PEM research skill，评估这些文献哪些可能写进我的综述/论文正文：
+
+文献来源：
+
+要求：
+
+- 分成“必须写”“可作为支撑”“只做背景”“排除”。
+- 说明每篇适合放在哪个章节。
+- 说明它能支撑哪个观点或图表。
+- 不要只按影响因子排序，要按研究问题相关性排序。
+
 ## Build Review Outline
 
 用 COF PEM research skill，基于当前知识库写一篇综述大纲，主题是：

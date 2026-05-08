@@ -23,6 +23,7 @@ Use short commands like:
 - `research_system/knowledge/glossary.md`: key terms and measurement vocabulary.
 - `research_system/literature/literature_matrix.md`: structured paper notes.
 - `research_system/literature/evidence_register.md`: source and confidence status for literature claims.
+- `research_system/literature/endnote_triage.md`: triage of candidate papers visible in the local EndNote library.
 - `research_system/literature/fact_check_workflow.md`: required workflow before treating claims as facts.
 - `research_system/literature/source_record_template.md`: template for auditable paper extraction.
 - `research_system/literature/paper_notes/`: reusable A-core paper cards.
