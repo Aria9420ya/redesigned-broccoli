@@ -114,5 +114,6 @@ Every paragraph in the manuscript should point to a figure or a table. If a clai
 - **Figure 4A**: Electrospun COF architecture map: COF-doped fibers, in situ COF growth on fibers, COF-connected 3D networks, acid-confined nanofiber membranes.
 - **Figure 4B**: Failure modes and countermeasures: acid leakage, swelling, aggregation, interfacial defects, poor MEA transfer.
 - **Table 4.1**: A1 electrospun COF/PEM papers and architecture classification.
+- **Table 4.1 Chinese working draft**: see `table4_1_electrospun_cof_pem_zh.md`.
 - **Table 4.2**: A2 high-temperature/anhydrous COF-PEM strategies.
 - **Table 4.3**: Evidence completeness matrix: conductivity conditions, swelling/mechanics, acid retention, MEA, missing data.
