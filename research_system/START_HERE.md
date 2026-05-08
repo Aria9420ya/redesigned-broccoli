@@ -19,6 +19,8 @@ Use short commands like:
 - `research_system/knowledge/glossary.md`: key terms and measurement vocabulary.
 - `research_system/literature/literature_matrix.md`: structured paper notes.
 - `research_system/literature/evidence_register.md`: source and confidence status for literature claims.
+- `research_system/literature/fact_check_workflow.md`: required workflow before treating claims as facts.
+- `research_system/literature/source_record_template.md`: template for auditable paper extraction.
 - `research_system/literature/paper_notes/`: reusable A-core paper cards.
 - `research_system/literature/literature_protocol.md`: paper search, screening, and extraction rules.
 - `research_system/experiments/experiment_plan.md`: sample design and test plan.
@@ -26,6 +28,7 @@ Use short commands like:
 - `research_system/experiments/sample_log_template.md`: reusable experiment batch record.
 - `research_system/data_templates/benchmark_metrics_table.md`: paper and experiment comparison table.
 - `research_system/writing/figure_storyboard.md`: figure-first manuscript logic.
+- `research_system/quality_control.md`: accuracy, completeness, and effectiveness rules.
 - `research_system/github/debug_workflow.md`: how to use GitHub for project work.
 - `research_system/github/issue_backlog.md`: first GitHub issues to create.
 - `research_system/roadmap.md`: staged path from literature map to manuscript figures.
