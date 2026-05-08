@@ -48,19 +48,20 @@ Table/Figure support:
 - Table 4.1: Electrospun PEM architectures and their role.
 - Figure 4A: polymer matrix + nanofiber scaffold + COF/acid sites.
 
-## 4.2 COF Integration Strategies In Electrospun Membranes
+## 4.2 Structural Relationships Between COFs And Electrospun/Nanofiber Membranes
 
 Purpose:
 
-Classify how COFs are engineered into electrospun systems.
+Classify how COFs are positioned relative to nanofibers. This is clearer than grouping only by preparation method.
 
 Subsections:
 
-### 4.2.1 COF-doped electrospun nanofibers
+### 4.2.1 Fiber-embedded architecture
 
 Focus:
 
-- COF dispersed into polymer spinning solution or incorporated into nanofiber matrix.
+- COF is integrated into the electrospun fiber system during or after fiber formation.
+- The fiber itself becomes a composite proton-conducting unit.
 - Example: COF-doped PVDF nanofibers for high-temperature PEMs.
 
 What to evaluate:
@@ -77,12 +78,13 @@ Evidence needed:
 - Leaching or stability data.
 - Conductivity versus temperature.
 
-### 4.2.2 In situ COF growth on electrospun scaffolds
+### 4.2.2 Surface-growth architecture
 
 Focus:
 
 - COF grown on PAN or other nanofiber surfaces.
 - Stronger interfacial contact and less aggregation than physical blending.
+- The fiber mainly acts as scaffold; COF acts as surface functional layer or interfacial proton-channel layer.
 
 Core literature:
 
@@ -95,11 +97,12 @@ What to evaluate:
 - Through-plane proton continuity.
 - Swelling and mechanical stability.
 
-### 4.2.3 COF-connected three-dimensional nanofiber networks
+### 4.2.3 Network-bridged architecture
 
 Focus:
 
-- Nanofiber network as a 3D framework; COF as connector/channel former.
+- COF/CONs and nanofibers jointly form cross-scale connected networks.
+- The emphasis is membrane-level connectivity rather than COF placement inside a single fiber.
 
 Core literature:
 
@@ -157,11 +160,11 @@ Columns:
 
 COF strategy | Polymer/scaffold | Proton carrier | Temperature/RH | Conductivity | Acid retention | Mechanical/swelling | MEA result | Evidence status
 
-## 4.4 Mechanical Stability, Swelling Control, And Acid Retention
+## 4.4 Performance Retention And Device Translation: From Stability To MEA
 
 Purpose:
 
-Discuss why high-temperature PEMs fail, and how electrospun COF architectures may address failure modes.
+Discuss why high-temperature PEMs cannot be judged only by conductivity, and how electrospun COF architectures address stability and device-transfer problems.
 
 Failure modes:
 
@@ -192,13 +195,7 @@ Suggested figure:
 
 Figure 4B: failure modes and corresponding design countermeasures.
 
-## 4.5 From Ex Situ Conductivity To Device-Relevant Performance
-
-Purpose:
-
-Prevent the chapter from becoming a conductivity-number catalogue.
-
-Key points:
+Device-translation points:
 
 - Ex situ conductivity is necessary but insufficient.
 - MEA performance depends on membrane thickness, electrode contact, acid distribution, gas crossover, and interfacial resistance.
@@ -213,7 +210,7 @@ Evidence hierarchy:
 4. Acid retention/leaching and durability.
 5. MEA performance under stated gas/RH/T/catalyst loading.
 
-Suggested table:
+Suggested evidence table:
 
 Table 4.3: Evidence completeness of A1/A2 papers.
 
@@ -221,7 +218,7 @@ Columns:
 
 Paper | Structure verified | Conductivity conditions | Mechanical/swelling | Acid retention | MEA | Missing data
 
-## 4.6 Design Rules For Engineering COFs Via Electrospinning
+## 4.5 Design Rules For Engineering COFs Via Electrospinning
 
 Purpose:
 
