@@ -16,6 +16,7 @@ Open [`research_system/START_HERE.md`](research_system/START_HERE.md) for the fu
 
 - [`research_system/knowledge/knowledge_map.md`](research_system/knowledge/knowledge_map.md): stable concepts, mechanism map, research questions.
 - [`research_system/literature/literature_matrix.md`](research_system/literature/literature_matrix.md): structured literature extraction table.
+- [`research_system/literature/evidence_register.md`](research_system/literature/evidence_register.md): source and confidence status for literature claims.
 - [`research_system/literature/paper_notes/`](research_system/literature/paper_notes/): reusable A-core paper cards.
 - [`research_system/literature/literature_protocol.md`](research_system/literature/literature_protocol.md): how papers are searched, screened, and summarized.
 - [`research_system/experiments/experiment_plan.md`](research_system/experiments/experiment_plan.md): route design, controls, characterization.

@@ -59,3 +59,17 @@ Use three tiers:
 - **C-background**: general context only.
 
 Prioritize A-core papers in chat. Keep B/C details in the file unless needed.
+
+## Accuracy Rule
+
+Every paper must have an evidence status in `evidence_register.md`.
+
+Use:
+
+- `Verified-primary` for publisher page, DOI page, or full open article.
+- `Verified-index` for trusted bibliographic/index records.
+- `Abstract-only` when only abstract/highlights were checked.
+- `To verify` when the paper is a lead but not yet checked.
+- `Conflict` when sources disagree.
+
+Do not use `To verify` metrics for route selection, experiment design, or manuscript claims.

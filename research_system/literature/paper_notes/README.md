@@ -2,6 +2,8 @@
 
 Each paper note is a reusable research memory card.
 
+Before using a metric from any note, check `../evidence_register.md`.
+
 Use a note when asking:
 
 - What does this paper prove?
