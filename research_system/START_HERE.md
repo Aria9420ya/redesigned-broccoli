@@ -16,9 +16,21 @@ Use short commands like:
 
 - `research_system/knowledge/knowledge_map.md`: stable mechanism map and research questions.
 - `research_system/literature/literature_matrix.md`: structured paper notes.
+- `research_system/literature/literature_protocol.md`: paper search, screening, and extraction rules.
 - `research_system/experiments/experiment_plan.md`: sample design and test plan.
+- `research_system/experiments/sample_log_template.md`: reusable experiment batch record.
 - `research_system/github/debug_workflow.md`: how to use GitHub for project work.
+- `research_system/github/issue_backlog.md`: first GitHub issues to create.
+- `research_system/roadmap.md`: staged path from literature map to manuscript figures.
 
 ## Context-Saving Rule
 
 Do not keep full papers, long copied paragraphs, or raw data in chat. Put durable memory into files, then ask Codex to load only the relevant file for the next task.
+
+## First Milestones
+
+1. Extract 10-20 core papers into the literature matrix.
+2. Choose the first membrane route and controls.
+3. Build a sample naming system.
+4. Record experiments with the sample log template.
+5. Convert results into a figure-first manuscript outline.
