@@ -15,6 +15,7 @@ Use short commands like:
 ## Folder Map
 
 - `research_system/knowledge/knowledge_map.md`: stable mechanism map and research questions.
+- `research_system/knowledge/domain_taxonomy.md`: layered subject taxonomy from device to mechanism.
 - `research_system/literature/literature_matrix.md`: structured paper notes.
 - `research_system/literature/literature_protocol.md`: paper search, screening, and extraction rules.
 - `research_system/experiments/experiment_plan.md`: sample design and test plan.

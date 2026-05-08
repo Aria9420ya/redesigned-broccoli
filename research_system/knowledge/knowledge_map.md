@@ -23,3 +23,19 @@ COF chemistry -> acid/base/proton-site density -> water or carrier retention -> 
 - Which proton carriers remain fixed after long hydration and fuel-cell operation?
 - What COF loading crosses from channel-forming to aggregation/blocking?
 - Why do some high-conductivity membranes underperform in MEA?
+
+## Current Route Ranking
+
+1. **PAN/PFSA/sulfonated COF sandwich route**: strongest fit to electrospinning + PEM stability; good first experimental route.
+2. **PVDF/COF/ionic-liquid nanofiber route**: attractive for high-temperature work, but leaching and long-term durability need strict controls.
+3. **Nafion/anchored heteropoly-acid COF route**: strong low-RH mechanism, useful if MEA performance is the main target.
+4. **Continuous SCOF/support membrane route**: frontier benchmark; likely harder synthetically but important as a long-term target.
+
+## Minimum Decision Logic
+
+Choose a route only if it can answer all four questions:
+
+- Where are the proton sites?
+- Are they continuous across the membrane?
+- What prevents swelling, leaching, or cracking?
+- How will ex situ metrics connect to fuel-cell performance?
