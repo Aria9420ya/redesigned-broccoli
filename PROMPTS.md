@@ -6,6 +6,25 @@ Use these prompts to activate the research system in this repository.
 
 用 COF PEM research skill，并读取这个项目的 `research_system` 知识库。所有文献信息必须按 `evidence_register.md` 标注证据等级；没有核实的内容不要当事实。现在帮我处理下面这个任务：
 
+## Continue In A New Chat
+
+用 COF PEM research skill，继续 `/Users/Zhuanz/Documents/New project` 这个项目。请先读取：
+
+- `research_system/START_HERE.md`
+- `research_system/quality_control.md`
+- `research_system/literature/evidence_register.md`
+- `research_system/writing/chapter4_outline_zh.md`
+- `research_system/writing/table4_1_electrospun_cof_pem_zh.md`
+
+要求：
+
+- 只把已核证的信息当事实。
+- 未核证内容标 `To verify`、`Abstract-only` 或 `Need full text`。
+- 优先用中文帮我推进综述逻辑、表格和正文。
+- 不要重新从零搭框架，先沿用当前知识库。
+
+这次我要处理的任务是：
+
 ## Find Literature
 
 用 COF PEM research skill，围绕“COF 静电纺丝质子交换膜/燃料电池膜”查找近 3-5 年高相关文献。要求：

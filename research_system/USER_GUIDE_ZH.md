@@ -111,3 +111,17 @@ PDF 最有价值，因为可以补齐摘要里没有的：
 或者：
 
 > 按 PROMPTS.md 里的“Build Review Outline”模式，帮我写综述大纲。
+
+## 背景窗口快满时怎么办
+
+不用特意换项目。最稳妥的做法是：仍然在这个项目下开一个新话题，然后复制 `PROMPTS.md` 里的 `Continue In A New Chat` 指令。
+
+推荐你新话题第一句话这样说：
+
+> 用 COF PEM research skill，继续 `/Users/Zhuanz/Documents/New project` 这个项目。按 PROMPTS.md 的 Continue In A New Chat 模式读取知识库，不要从零开始。现在帮我……
+
+如果是在别的项目里写综述，也可以继续引用这个库：
+
+> 用 COF PEM research skill，把 `/Users/Zhuanz/Documents/New project/research_system` 当作参考知识库，帮我写当前项目的综述段落。只使用已核证或明确标注证据等级的信息。
+
+原则是：聊天窗口只负责当前任务，长期事实放在 `research_system` 文件里。

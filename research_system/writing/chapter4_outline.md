@@ -56,11 +56,11 @@ Classify how COFs are positioned relative to nanofibers. This is clearer than gr
 
 Subsections:
 
-### 4.2.1 Fiber-embedded architecture
+### 4.2.1 Fiber-composite/co-spun embedded architecture
 
 Focus:
 
-- COF is integrated into the electrospun fiber system during or after fiber formation.
+- COF components are introduced into, or constructed in situ within, the electrospun fiber system.
 - The fiber itself becomes a composite proton-conducting unit.
 - Example: COF-doped PVDF nanofibers for high-temperature PEMs.
 
