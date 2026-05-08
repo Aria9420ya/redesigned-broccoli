@@ -16,9 +16,12 @@ Open [`research_system/START_HERE.md`](research_system/START_HERE.md) for the fu
 
 - [`research_system/knowledge/knowledge_map.md`](research_system/knowledge/knowledge_map.md): stable concepts, mechanism map, research questions.
 - [`research_system/literature/literature_matrix.md`](research_system/literature/literature_matrix.md): structured literature extraction table.
+- [`research_system/literature/paper_notes/`](research_system/literature/paper_notes/): reusable A-core paper cards.
 - [`research_system/literature/literature_protocol.md`](research_system/literature/literature_protocol.md): how papers are searched, screened, and summarized.
 - [`research_system/experiments/experiment_plan.md`](research_system/experiments/experiment_plan.md): route design, controls, characterization.
 - [`research_system/experiments/sample_log_template.md`](research_system/experiments/sample_log_template.md): reusable experiment record template.
+- [`research_system/data_templates/benchmark_metrics_table.md`](research_system/data_templates/benchmark_metrics_table.md): comparable metrics table for papers and experiments.
+- [`research_system/writing/figure_storyboard.md`](research_system/writing/figure_storyboard.md): figure-first manuscript plan.
 - [`research_system/roadmap.md`](research_system/roadmap.md): staged research plan.
 
 ## How To Work With Codex

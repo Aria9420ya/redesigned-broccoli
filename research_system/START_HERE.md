@@ -16,11 +16,15 @@ Use short commands like:
 
 - `research_system/knowledge/knowledge_map.md`: stable mechanism map and research questions.
 - `research_system/knowledge/domain_taxonomy.md`: layered subject taxonomy from device to mechanism.
+- `research_system/knowledge/glossary.md`: key terms and measurement vocabulary.
 - `research_system/literature/literature_matrix.md`: structured paper notes.
+- `research_system/literature/paper_notes/`: reusable A-core paper cards.
 - `research_system/literature/literature_protocol.md`: paper search, screening, and extraction rules.
 - `research_system/experiments/experiment_plan.md`: sample design and test plan.
 - `research_system/experiments/route_decision_matrix.md`: route comparison and first-route selection logic.
 - `research_system/experiments/sample_log_template.md`: reusable experiment batch record.
+- `research_system/data_templates/benchmark_metrics_table.md`: paper and experiment comparison table.
+- `research_system/writing/figure_storyboard.md`: figure-first manuscript logic.
 - `research_system/github/debug_workflow.md`: how to use GitHub for project work.
 - `research_system/github/issue_backlog.md`: first GitHub issues to create.
 - `research_system/roadmap.md`: staged path from literature map to manuscript figures.
