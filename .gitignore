@@ -1,0 +1,8 @@
+.DS_Store
+**/.DS_Store
+
+# Local EndNote exports can contain large personal literature libraries.
+research_system/literature/endnote_exports/
+
+# Keep generated screening outputs, but ignore raw parser JSON unless needed.
+research_system/literature/screening_outputs/*.json
