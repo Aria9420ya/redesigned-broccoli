@@ -8,6 +8,8 @@ In situ growth or stable incorporation of sulfonated/acid-bearing COFs on electr
 
 PFSA or Nafion matrix + electrospun PAN/PVDF scaffold + sulfonated COF or acid-functional COF.
 
+See `route_decision_matrix.md` for route ranking and first-route justification.
+
 ## Minimal Sample Matrix
 
 | Sample | Purpose |
