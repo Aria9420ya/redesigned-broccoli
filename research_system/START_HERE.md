@@ -2,6 +2,10 @@
 
 This project is organized as a long-term research workspace for COF/electrospun proton exchange membranes.
 
+For copy-ready prompt templates, see `../PROMPTS.md`.
+
+For a Chinese usage guide, see `USER_GUIDE_ZH.md`.
+
 ## How To Ask Codex
 
 Use short commands like:

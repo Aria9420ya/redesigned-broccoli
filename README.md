@@ -37,6 +37,10 @@ Ask Codex to use the COF PEM research skill, then name the task:
 - Writing: "根据当前知识体系生成论文图谱和 introduction 大纲。"
 - GitHub: "把今天的研究进展提交，并创建下一步 issues。"
 
+For copy-ready prompts, open [`PROMPTS.md`](PROMPTS.md).
+
+For a Chinese usage guide, open [`research_system/USER_GUIDE_ZH.md`](research_system/USER_GUIDE_ZH.md).
+
 ## Context Rule
 
 Keep durable memory in files, not in chat. Chat should hold only the current question and a short working summary.
